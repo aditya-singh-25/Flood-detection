@@ -1,4 +1,4 @@
-FLOODHAWK: Flood Detection Using Sentinel Images
+FLOODETECTION: Flood Detection Using Sentinel Images
 
 Project Description
 
